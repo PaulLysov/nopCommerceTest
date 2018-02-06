@@ -1,0 +1,16 @@
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Description.txt
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\web.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csproj.App.config
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csprojResolveAssemblyReference.cache
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.dll
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.pdb

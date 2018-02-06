@@ -1,0 +1,8 @@
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

@@ -1,0 +1,11 @@
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

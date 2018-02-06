@@ -1,0 +1,12 @@
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\Configure.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\ProductAddPopup.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csproj.App.config
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csprojResolveAssemblyReference.cache
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

@@ -1,0 +1,12 @@
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\Configure.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentInfo.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

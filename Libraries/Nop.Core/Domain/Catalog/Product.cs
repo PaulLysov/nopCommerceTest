@@ -706,5 +706,10 @@ namespace Nop.Core.Domain.Catalog
             get { return _productWarehouseInventory ?? (_productWarehouseInventory = new List<ProductWarehouseInventory>()); }
             protected set { _productWarehouseInventory = value; }
         }
+
+		///// <summary>
+		///// book author
+		///// </summary>
+		//public string Author { get; set; }
     }
 }

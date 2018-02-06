@@ -1,0 +1,13 @@
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Description.txt
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\web.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.dll
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\Nop.Plugin.Pickup.PickupInStore.pdb

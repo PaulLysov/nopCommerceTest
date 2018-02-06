@@ -1,0 +1,11 @@
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csproj.App.config
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb
