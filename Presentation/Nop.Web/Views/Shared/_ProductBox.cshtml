@@ -29,9 +29,20 @@
         </a>
     </div>
     <div class="details">
-        <h2 class="product-title">
-            <a href="@Url.RouteUrl("Product", new {SeName = Model.SeName})">@Model.Name</a>
-        </h2>
+		<h2 class="product-title">
+			<a href="@Url.RouteUrl("Product", new {SeName = Model.SeName})">
+				@Model.Name
+				@if (!string.IsNullOrEmpty(Model.Author))
+				{
+						<span class="author">
+							Author: @Model.Author
+							@*@T("Products.Author.Label") @Model.Author*@
+						</span>
+				}
+		</a>
+		
+	</h2>
+		
         @if (EngineContext.Current.Resolve<CatalogSettings>().ShowSkuOnCatalogPages && !string.IsNullOrEmpty(Model.Sku))
         {
             <div class="sku">

@@ -11,7 +11,9 @@ namespace Nop.Admin.Validators.Catalog
     {
         public ProductValidator(ILocalizationService localizationService, IDbContext dbContext)
         {
-            RuleFor(x => x.Name).NotEmpty().WithMessage(localizationService.GetResource("Admin.Catalog.Products.Fields.Name.Required"));
+			RuleFor(x => x.Name).NotEmpty().WithMessage(localizationService.GetResource("Admin.Catalog.Products.Fields.Name.Required"));
+			//book author validating 
+			//RuleFor(m => m.Author).Length(0, 100);
 
             SetDatabaseValidationRules<Product>(dbContext);
         }

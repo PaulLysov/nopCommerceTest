@@ -707,9 +707,9 @@ namespace Nop.Core.Domain.Catalog
             protected set { _productWarehouseInventory = value; }
         }
 
-		///// <summary>
-		///// book author
-		///// </summary>
-		//public string Author { get; set; }
-    }
+		/// <summary>
+		/// book author
+		/// </summary>
+		public string Author { get; set; }
+	}
 }

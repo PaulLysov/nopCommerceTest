@@ -63,11 +63,18 @@
                     @Html.Widget("productdetails_after_pictures", Model.Id)
                     <div class="overview">
                         @Html.Partial("_Discontinued", Model)
-                        <div class="product-name">
-                            <h1 itemprop="name">
-                                @Model.Name
-                            </h1>
-                        </div>
+	                    <div class="product-name">
+		                    <h1 itemprop="name">
+			                    @Model.Name
+		                    </h1>
+	                    </div>
+						@if (!string.IsNullOrEmpty(Model.Author))
+						{
+							<div class="author">
+								<span class="label">@T("Products.Author"):</span>
+								<span class="value">@Model.Author</span>
+							</div>
+						}
                         @if (!String.IsNullOrEmpty(Model.ShortDescription))
                         {
                             <div class="short-description">

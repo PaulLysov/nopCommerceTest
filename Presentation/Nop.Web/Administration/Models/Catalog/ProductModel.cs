@@ -449,6 +449,9 @@ namespace Nop.Admin.Models.Catalog
         //stock quantity history
         public StockQuantityHistoryModel StockQuantityHistory { get; set; }
 
+		[NopResourceDisplayName("Admin.Catalog.Products.Fields.Author")]
+        public string Author { get; set; }
+
         #region Nested classes
 
         public partial class AddRequiredProductModel : BaseNopModel
@@ -1020,5 +1023,9 @@ namespace Nop.Admin.Models.Catalog
         [NopResourceDisplayName("Admin.Catalog.Products.Fields.SeName")]
         [AllowHtml]
         public string SeName { get; set; }
+
+		[NopResourceDisplayName("Admin.Catalog.Products.Fields.Author")]
+        [AllowHtml]
+        public string Author { get; set; }
     }
 }

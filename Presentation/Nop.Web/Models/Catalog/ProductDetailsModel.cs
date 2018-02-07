@@ -35,6 +35,10 @@ namespace Nop.Web.Models.Catalog
         public IList<PictureModel> PictureModels { get; set; }
 
         public string Name { get; set; }
+		/// <summary>
+		/// the product author 
+		/// </summary>
+		public string Author { get; set; }
         public string ShortDescription { get; set; }
         public string FullDescription { get; set; }
         public string MetaKeywords { get; set; }

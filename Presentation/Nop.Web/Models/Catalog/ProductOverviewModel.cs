@@ -17,6 +17,10 @@ namespace Nop.Web.Models.Catalog
         }
 
         public string Name { get; set; }
+		/// <summary>
+		/// the product author 
+		/// </summary>
+		public string Author { get; set; }
         public string ShortDescription { get; set; }
         public string FullDescription { get; set; }
         public string SeName { get; set; }
