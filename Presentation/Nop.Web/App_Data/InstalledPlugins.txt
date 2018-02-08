@@ -18,3 +18,4 @@ Shipping.USPS
 Tax.FixedOrByCountryStateZip
 Widgets.GoogleAnalytics
 Widgets.NivoSlider
+Widgets.DiscontDelivery

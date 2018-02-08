@@ -73,7 +73,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Feed.GoogleShopp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Tax.FixedOrByCountryStateZip", "Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj", "{493761CB-5190-4283-8C6C-A8CEB5450CAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Widget.DiscontDelivery", "Nop.Plugin.DiscontRules.Delivery\Nop.Plugin.Widget.DiscontDelivery.csproj", "{366357C3-4AAE-4093-ADDF-9C197CBC689C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Widgets.DiscontDelivery", "Plugins\Nop.Plugin.Widgets.DiscontDelivery\Nop.Plugin.Widgets.DiscontDelivery.csproj", "{366357C3-4AAE-4093-ADDF-9C197CBC689C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

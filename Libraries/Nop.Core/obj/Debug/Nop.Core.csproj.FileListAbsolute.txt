@@ -25,6 +25,5 @@ D:\lysov\nopCommerceTest\Libraries\Nop.Core\bin\Debug\System.Web.Razor.xml
 D:\lysov\nopCommerceTest\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.xml
 D:\lysov\nopCommerceTest\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\lysov\nopCommerceTest\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
-D:\lysov\nopCommerceTest\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache
 D:\lysov\nopCommerceTest\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
 D:\lysov\nopCommerceTest\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb
