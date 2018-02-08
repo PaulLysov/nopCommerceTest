@@ -28,7 +28,7 @@ namespace Nop.Plugin.Widgets.DiscontDelivery
 		/// <returns> widget zones </returns>
 		public IList<string> GetWidgetZones()
 		{
-			return new List<string> { "productbox_addinfo_before" };
+			return new List<string> { "productbox_addinfo_middle", "producttemplate_simple_delivery_after" };
 		}
 
 		/// <summary>
@@ -70,13 +70,13 @@ namespace Nop.Plugin.Widgets.DiscontDelivery
 			};
 			_settingService.SaveSetting(settings);
 
-			
 			this.AddOrUpdatePluginLocaleResource("Plugins.Widgets.DiscontDelivery.Settings", "Settings");
 			this.AddOrUpdatePluginLocaleResource("Plugins.Widgets.DiscontDelivery.Text", "If you order before {0} discount for shipping {1}%");
 			this.AddOrUpdatePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DateTimeTo", "DateTime to");
 			this.AddOrUpdatePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DateTimeTo.Hint", "Enter the datetime to which the action will operate");
 			this.AddOrUpdatePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DiscontPercent", "Discount percent");
 			this.AddOrUpdatePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DiscontPercent.Hint", "Please enter discount delivery percent");
+			this.AddOrUpdatePluginLocaleResource("Plugins.Widgets.DiscontDelivery.Attention", "Discont on delivery");
 
 			base.Install();
 		}
@@ -90,12 +90,14 @@ namespace Nop.Plugin.Widgets.DiscontDelivery
 			_settingService.DeleteSetting<DiscontDeliverySettings>();
 
 			//remove plugin resources
+
 			this.DeletePluginLocaleResource("Plugins.Widgets.DiscontDelivery.Settings");
 			this.DeletePluginLocaleResource("Plugins.Widgets.DiscontDelivery.Text");
 			this.DeletePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DateTimeTo");
 			this.DeletePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DateTimeTo.Hint");
 			this.DeletePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DiscontPercent");
 			this.DeletePluginLocaleResource("Plugins.Widgets.DiscontDelivery.DiscontPercent.Hint");
+			this.DeletePluginLocaleResource("Plugins.Widgets.DiscontDelivery.Attention");
 
 			base.Uninstall();
 		}

@@ -1,9 +1,26 @@
 ﻿
 .discont-wrapper {
 	display: inline-block;
-	padding: 10px;
+	padding: 5px 0;
 }
 
 .discont-wrapper .discont_delivery {
 	font-weight: bold;
+}
+
+#delivery_attention {
+  -webkit-animation: delivery_attention 4s linear infinite;
+  animation: delivery_attention 4s linear infinite;
+}
+
+@-webkit-keyframes delivery_attention {
+  0% { color: rgba(232, 81, 81, 1); }
+  50% { color: rgba(34, 34, 34, 0); }
+  100% { color: rgba(232, 81, 81, 1); }
+}
+
+@keyframes delivery_attention {
+  0% { color: rgba(232, 81, 81, 1); }
+  50% { color: rgba(34, 34, 34, 0); }
+  100% { color: rgba(232, 81, 81, 1); }
 }

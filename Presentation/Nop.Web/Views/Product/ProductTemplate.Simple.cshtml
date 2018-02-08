@@ -92,6 +92,8 @@
 						@Html.Partial("_SKU_Man_GTIN_Ven", Model)
 						<!--delivery-->
 						@Html.Partial("_DeliveryInfo", Model)
+						@*delivery widget*@ 
+						@Html.Widget("producttemplate_simple_delivery_after", Model.Id)
 						<!--sample download-->
 						@Html.Partial("_DownloadSample", Model)
 						<!--attributes-->

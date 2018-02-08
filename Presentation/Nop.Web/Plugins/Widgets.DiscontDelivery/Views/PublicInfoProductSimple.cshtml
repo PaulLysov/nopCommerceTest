@@ -7,7 +7,7 @@
 @using Nop.Web.Framework.UI
 
 <div class="discont-wrapper">
-	<div id="discont-delivery-block" class="discont_delivery">
-		@(string.Format(T("Plugins.Widgets.DiscontDelivery.Text").Text,  Model.DateTimeTo.ToShortDateString(), Model.DiscontPercent ) )
+	<div id="delivery_attention" class="discont_delivery">
+		@(string.Format(T("Plugins.Widgets.DiscontDelivery.Text").Text,  Model.DateTimeTo.ToString("M"), Model.DiscontPercent ) )
 	</div>
 </div>

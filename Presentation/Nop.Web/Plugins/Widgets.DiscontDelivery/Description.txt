@@ -1,5 +1,5 @@
 ﻿Group: Widgets
-FriendlyName: Discount on delivery when ordering before the selected date
+FriendlyName: Discount on delivery
 SystemName: Widgets.DiscontDelivery
 Version: 1.00
 SupportedVersions: 3.90

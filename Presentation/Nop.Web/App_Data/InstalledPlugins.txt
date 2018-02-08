@@ -16,6 +16,6 @@ Shipping.FixedOrByWeight
 Shipping.UPS
 Shipping.USPS
 Tax.FixedOrByCountryStateZip
+Widgets.DiscontDelivery
 Widgets.GoogleAnalytics
 Widgets.NivoSlider
-Widgets.DiscontDelivery

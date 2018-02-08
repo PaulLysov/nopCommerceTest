@@ -6,5 +6,6 @@ D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.S
 D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
 D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
 D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csproj.App.config
+D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache
 D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
 D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
