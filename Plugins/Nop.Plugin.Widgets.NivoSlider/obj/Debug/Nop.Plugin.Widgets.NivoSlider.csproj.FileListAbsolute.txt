@@ -31,6 +31,5 @@ D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plu
 D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
 D:\lysov\nopCommerceTest\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
 D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csproj.App.config
-D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csprojResolveAssemblyReference.cache
 D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
 D:\lysov\nopCommerceTest\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb

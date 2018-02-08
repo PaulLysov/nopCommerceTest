@@ -1,0 +1,9 @@
+﻿Group: Widgets
+FriendlyName: Discount on delivery when ordering before the selected date
+SystemName: Widgets.DiscontDelivery
+Version: 1.00
+SupportedVersions: 3.90
+Author: nopCommerce
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.DiscontDelivery.dll
+Description: This plugin show delivery discount on product page when ordering before the selected date.

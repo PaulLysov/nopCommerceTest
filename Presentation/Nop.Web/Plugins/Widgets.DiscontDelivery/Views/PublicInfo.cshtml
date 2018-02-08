@@ -1,0 +1,13 @@
+﻿@model Nop.Plugin.Widgets.DiscontDelivery.Models.PublicInfoModel
+@{
+	Layout = "";
+
+	Html.AddCssFileParts("~/Plugins/Widgets.DiscontDelivery/Content/discont_delivery.css");
+}
+@using Nop.Web.Framework.UI
+
+<div class="discont-wrapper">
+	<div id="discont-delivery-block" class="discont_delivery">
+		@(string.Format(T("Plugins.Widgets.DiscontDelivery.Text").Text,  Model.DateTimeTo.ToShortDateString(), Model.DiscontPercent ) )
+	</div>
+</div>

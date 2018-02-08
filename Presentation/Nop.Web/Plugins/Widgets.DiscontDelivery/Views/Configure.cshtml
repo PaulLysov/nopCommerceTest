@@ -1,0 +1,53 @@
+﻿@{
+	Layout = "";
+}
+@model Nop.Plugin.Widgets.DiscontDelivery.Models.ConfigurationModel
+@using Nop.Web.Framework;
+
+@Html.Action("StoreScopeConfiguration", "Setting", new { area = "Admin" })
+
+@using (Html.BeginForm())
+{
+	@Html.AntiForgeryToken()
+	<div class="panel-group">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				@T("Plugins.Widgets.DiscontDelivery.Settings")
+			</div>
+			<div class="panel-body">
+				<div class="form-group">
+					<div class="col-md-3">
+						@Html.OverrideStoreCheckboxFor(model => model.DateTimeTo_OverrideForStore, model => model.DateTimeTo, Model.ActiveStoreScopeConfiguration)
+						@Html.NopLabelFor(model => model.DateTimeTo)
+					</div>
+					<div class="col-md-9">
+						@Html.NopEditorFor(model => model.DateTimeTo)
+						@Html.ValidationMessageFor(model => model.DateTimeTo)
+					</div>
+				</div>
+				<div class="form-group">
+					<div class="col-md-3">
+						@Html.OverrideStoreCheckboxFor(model => model.DiscontPercent_OverrideForStore, model => model.DiscontPercent, Model.ActiveStoreScopeConfiguration)
+						@Html.NopLabelFor(model => model.DiscontPercent)
+					</div>
+					<div class="col-md-9">
+						@Html.NopEditorFor(model => model.DiscontPercent)
+						@Html.ValidationMessageFor(model => model.DiscontPercent)
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<div class="form-group">
+					<div class="col-md-3">
+						&nbsp;
+					</div>
+					<div class="col-md-9">
+						<input type="submit" name="save" class="btn bg-blue" value="@T("Admin.Common.Save")" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+}
